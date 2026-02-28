@@ -25,6 +25,7 @@ Architecture: MVC (Model-View-Controller)
 ❌ Delete Employee Record
 
 🗄 Database Integration with JPA/Hibernate
+
 📂 Project Structure
 
 controller – Handles HTTP requests
